@@ -13,12 +13,12 @@ class dashboard extends StatelessWidget {
               Container(
                 height: 100,
                 width: 100,
-                color: Colors.red,
+                color: Color.fromARGB(255, 113, 174, 245),
               ),
               Container(
                 height: 100,
                 width: 100,
-                color: Colors.blue,
+                color: Color.fromARGB(255, 164, 117, 218),
               ),
             ],
           ),
@@ -27,7 +27,7 @@ class dashboard extends StatelessWidget {
               Container(
                 height: 100,
                 width: 100,
-                color: Colors.green,
+                color: Color.fromARGB(255, 231, 164, 108),
               ),
               Container(
                 height: 100,
